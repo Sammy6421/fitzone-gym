@@ -74,7 +74,7 @@ body{
     margin-bottom:40px;
 }
 
-.buttons{
+.hero-buttons{
     display:flex;
     justify-content:center;
     gap:20px;
